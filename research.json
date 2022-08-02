@@ -2,8 +2,7 @@
     "current": {
         "categories": {
             "batteries": {
-                "LR MiGo": {
-                    "name": "Local Roots Branded MiGo Battery",
+                "Local Roots Branded MiGo Battery": {
                     "price": 15,
                     "vendor": "Ganesh Vapes",
                     "colors": [
@@ -15,7 +14,6 @@
                     }
                 },
                 "PAX Era Life": {
-                    "name": "PAX Era Life",
                     "price": 30,
                     "vendor": "PAX Labs",
                     "colors": [
@@ -31,19 +29,17 @@
                 }
             },
             "glassware": {
-                "Metal Screens": {
-                    "name": "Metal Screens 5 Pack",
+                "Metal Screens 5 Pack": {
                     "price": 2,
                     "vendor": "Silver Screens",
                     "colors": [
-                        "na"
+                        "n/a"
                     ],
                     "incl": {
                         "self": 1
                     }
                 },
-                "Whimsical Taster": {
-                    "name": "GRAV Whimsical Taster Single - Assorted Design",
+                "GRAV Whimsical Taster Single - Assorted Design": {
                     "price": 3.5,
                     "vendor": "GRAV",
                     "colors": [
@@ -53,8 +49,7 @@
                         "self": 1
                     }
                 },
-                "Chillum (WR)": {
-                    "name": "White Rhino Chillum with Silicone Cap",
+                "White Rhino Chillum with Silicone Cap": {
                     "price": 5,
                     "vendor": "White Rhino",
                     "colors": [
@@ -65,11 +60,62 @@
                     }
                 },
                 "Glass Blunt": {
-                    "name": "White Rhino Glass Blunt",
                     "price": 5,
                     "vendor": "White Rhino",
                     "colors": [
                         "clear"
+                    ],
+                    "incl": {
+                        "self": 1
+                    }
+                },
+                "Pyrex Dab Straw with Silicone Cap": {
+                    "price": 5,
+                    "vendor": "White Rhino",
+                    "colors": [
+                        "clear"
+                    ],
+                    "incl": {
+                        "self": 1
+                    }
+                },
+                "12mm Taster with Silicone Skin": {
+                    "price": 8,
+                    "vendor": "GRAV",
+                    "colors": [
+                        "pink"
+                    ],
+                    "incl": {
+                        "self": 1
+                    }
+                },
+                "Gandalf": {
+                    "price": 30,
+                    "vendor": "GRAV",
+                    "colors": [
+                        "pink"
+                    ],
+                    "incl": {
+                        "self": 1
+                    }
+                },
+                "Silicone Rocker Steamroller": {
+                    "price": 30,
+                    "vendor": "GRAV",
+                    "colors": [
+                        "black"
+                    ],
+                    "incl": {
+                        "self": 1
+                    }
+                }
+            },
+            "lighters": {
+                "accessory": {
+                    "price": 4.20,
+                    "vendor": "vendor",
+                    "colors": [
+                        "color"
                     ],
                     "incl": {
                         "self": 1
