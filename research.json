@@ -6,42 +6,74 @@
                     "name": "Local Roots Branded MiGo Battery",
                     "price": 15,
                     "vendor": "Ganesh Vapes",
-                    "color": "gold",
-                    "desc": "Ganesh's MiGo battery is specifically designed to work with any cartridge in the cannabis market.",
-                    "incl": [
-                        "self",
-                        "micro usb charger"
-                    ]
+                    "colors": [
+                        "gold"
+                    ],
+                    "incl": {
+                        "self": 1,
+                        "micro_usb_cable": 1
+                    }
                 },
                 "PAX Era Life": {
                     "name": "PAX Era Life",
                     "price": 30,
                     "vendor": "PAX Labs",
-                    "color": [
+                    "colors": [
                         "onyx",
                         "blaze",
                         "grass",
                         "indigo"
                     ],
-                    "desc": "It’s not a pen, it’s a PAX. The Era Life has instant draw and a rechargeable battery that’s dependable, not disposable. With our most compact design and a low-key profile, the Era Life provides both discretion and portability. Simply pop in a pod, and go.",
-                    "incl": [
-                        "self",
-                        "micro usb charger"
-                    ]
+                    "incl": {
+                        "self": 1,
+                        "micro_usb_cable": 1
+                    }
                 }
             },
             "glassware": {
-                "accessory": {
-                    "name": "",
-                    "price": 0,
-                    "vendor": "",
-                    "color": [
-                        ""
+                "Metal Screens": {
+                    "name": "Metal Screens 5 Pack",
+                    "price": 2,
+                    "vendor": "Silver Screens",
+                    "colors": [
+                        "na"
                     ],
-                    "desc": "",
-                    "incl": [
-                        "self"
-                    ]
+                    "incl": {
+                        "self": 1
+                    }
+                },
+                "Whimsical Taster": {
+                    "name": "GRAV Whimsical Taster Single - Assorted Design",
+                    "price": 3.5,
+                    "vendor": "GRAV",
+                    "colors": [
+                        "asst"
+                    ],
+                    "incl": {
+                        "self": 1
+                    }
+                },
+                "Chillum (WR)": {
+                    "name": "White Rhino Chillum with Silicone Cap",
+                    "price": 5,
+                    "vendor": "White Rhino",
+                    "colors": [
+                        "clear"
+                    ],
+                    "incl": {
+                        "self": 1
+                    }
+                },
+                "Glass Blunt": {
+                    "name": "White Rhino Glass Blunt",
+                    "price": 5,
+                    "vendor": "White Rhino",
+                    "colors": [
+                        "clear"
+                    ],
+                    "incl": {
+                        "self": 1
+                    }
                 }
             }
         }

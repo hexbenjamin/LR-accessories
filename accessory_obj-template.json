@@ -3,12 +3,11 @@
         "name": "",
         "price": "",
         "vendor": "",
-        "color": [
+        "colors": [
             ""
         ],
-        "desc": "",
-        "incl": [
-            "self"
-        ]
+        "incl": {
+            "self": 1
+        }
     }
 }

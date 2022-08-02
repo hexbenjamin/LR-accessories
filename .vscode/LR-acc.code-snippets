@@ -21,16 +21,16 @@
 		"prefix": "LR-acc",
 		"body": [
 			"\"${1:accessory}\": {",
-			"\t\"name\": \"$2\",",
-			"\t\"price\": 0,",
-			"\t\"vendor\": \"\",",
-			"\t\"color\": [",
-			"\t\t\"\",",
+			"\t\"name\": \"${2:name}\",",
+			"\t\"price\": ${3:price},",
+			"\t\"vendor\": \"${4:vendor}\",",
+			"\t\"colors\": [",
+			"\t\t\"${5:color}\"",
 			"\t],",
-			"\t\"desc\": \"\",",
-			"\t\"incl\": [",
-			"\t\t\"self\",",
-			"\t]",
+			"\t\"incl\": {",
+			"\t\t\"self\": 1",
+			"\t}",
+			"}$0"
 		],
 		"description": "add a JSON object for an accessory"
 	}
