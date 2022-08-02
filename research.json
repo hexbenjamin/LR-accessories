@@ -1,3 +1,49 @@
 {
-
+    "current": {
+        "categories": {
+            "batteries": {
+                "LR MiGo": {
+                    "name": "Local Roots Branded MiGo Battery",
+                    "price": 15,
+                    "vendor": "Ganesh Vapes",
+                    "color": "gold",
+                    "desc": "Ganesh's MiGo battery is specifically designed to work with any cartridge in the cannabis market.",
+                    "incl": [
+                        "self",
+                        "micro usb charger"
+                    ]
+                },
+                "PAX Era Life": {
+                    "name": "PAX Era Life",
+                    "price": 30,
+                    "vendor": "PAX Labs",
+                    "color": [
+                        "onyx",
+                        "blaze",
+                        "grass",
+                        "indigo"
+                    ],
+                    "desc": "It’s not a pen, it’s a PAX. The Era Life has instant draw and a rechargeable battery that’s dependable, not disposable. With our most compact design and a low-key profile, the Era Life provides both discretion and portability. Simply pop in a pod, and go.",
+                    "incl": [
+                        "self",
+                        "micro usb charger"
+                    ]
+                }
+            },
+            "glassware": {
+                "accessory": {
+                    "name": "",
+                    "price": 0,
+                    "vendor": "",
+                    "color": [
+                        ""
+                    ],
+                    "desc": "",
+                    "incl": [
+                        "self"
+                    ]
+                }
+            }
+        }
+    }
 }
