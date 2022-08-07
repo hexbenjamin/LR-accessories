@@ -1,127 +1,235 @@
 {
     "current": {
-        "categories": {
-            "batteries": {
-                "Local Roots Branded MiGo Battery": {
-                    "price": 15,
-                    "vendor": "Ganesh Vapes",
-                    "colors": [
-                        "gold"
-                    ],
-                    "incl": {
-                        "self": 1,
-                        "micro_usb_cable": 1
-                    }
-                },
-                "PAX Era Life": {
-                    "price": 30,
-                    "vendor": "PAX Labs",
-                    "colors": [
-                        "onyx",
-                        "blaze",
-                        "grass",
-                        "indigo"
-                    ],
-                    "incl": {
-                        "self": 1,
-                        "micro_usb_cable": 1
-                    }
-                }
-            },
-            "glassware": {
-                "Metal Screens 5 Pack": {
-                    "price": 2,
-                    "vendor": "Silver Screens",
-                    "colors": [
-                        "n/a"
-                    ],
-                    "incl": {
-                        "self": 1
-                    }
-                },
-                "GRAV Whimsical Taster Single - Assorted Design": {
-                    "price": 3.5,
-                    "vendor": "GRAV",
-                    "colors": [
-                        "asst"
-                    ],
-                    "incl": {
-                        "self": 1
-                    }
-                },
-                "White Rhino Chillum with Silicone Cap": {
-                    "price": 5,
-                    "vendor": "White Rhino",
-                    "colors": [
-                        "clear"
-                    ],
-                    "incl": {
-                        "self": 1
-                    }
-                },
-                "Glass Blunt": {
-                    "price": 5,
-                    "vendor": "White Rhino",
-                    "colors": [
-                        "clear"
-                    ],
-                    "incl": {
-                        "self": 1
-                    }
-                },
-                "Pyrex Dab Straw with Silicone Cap": {
-                    "price": 5,
-                    "vendor": "White Rhino",
-                    "colors": [
-                        "clear"
-                    ],
-                    "incl": {
-                        "self": 1
-                    }
-                },
-                "12mm Taster with Silicone Skin": {
-                    "price": 8,
-                    "vendor": "GRAV",
-                    "colors": [
-                        "pink"
-                    ],
-                    "incl": {
-                        "self": 1
-                    }
-                },
-                "Gandalf": {
-                    "price": 30,
-                    "vendor": "GRAV",
-                    "colors": [
-                        "pink"
-                    ],
-                    "incl": {
-                        "self": 1
-                    }
-                },
-                "Silicone Rocker Steamroller": {
-                    "price": 30,
-                    "vendor": "GRAV",
-                    "colors": [
-                        "black"
-                    ],
-                    "incl": {
-                        "self": 1
-                    }
-                }
-            },
-            "lighters": {
-                "accessory": {
-                    "price": 4.20,
-                    "vendor": "vendor",
-                    "colors": [
-                        "color"
-                    ],
-                    "incl": {
-                        "self": 1
-                    }
-                }
+      "categories": {
+        "batteries": {
+          "Local Roots Branded MiGo Battery": {
+            "price": 15,
+            "vendor": "Ganesh Vapes",
+            "colors": [
+              "gold"
+            ],
+            "incl": {
+              "self": 1,
+              "micro_usb_cable": 1
             }
+          },
+          "PAX Era Life": {
+            "price": 30,
+            "vendor": "PAX Labs",
+            "colors": [
+              "onyx",
+              "blaze",
+              "grass",
+              "indigo"
+            ],
+            "incl": {
+              "self": 1,
+              "micro_usb_cable": 1
+            }
+          }
+        },
+        "glassware": {
+          "Metal Screens 5 Pack": {
+            "price": 2,
+            "vendor": "Silver Screens",
+            "colors": [
+              "n/a"
+            ],
+            "incl": {
+              "self": 1
+            }
+          },
+          "GRAV Whimsical Taster Single - Assorted Design": {
+            "price": 3.5,
+            "vendor": "GRAV",
+            "colors": [
+              "asst"
+            ],
+            "incl": {
+              "self": 1
+            }
+          },
+          "White Rhino Chillum with Silicone Cap": {
+            "price": 5,
+            "vendor": "White Rhino",
+            "colors": [
+              "clear"
+            ],
+            "incl": {
+              "self": 1
+            }
+          },
+          "Glass Blunt": {
+            "price": 5,
+            "vendor": "White Rhino",
+            "colors": [
+              "clear"
+            ],
+            "incl": {
+              "self": 1
+            }
+          },
+          "Pyrex Dab Straw with Silicone Cap": {
+            "price": 5,
+            "vendor": "White Rhino",
+            "colors": [
+              "clear"
+            ],
+            "incl": {
+              "self": 1
+            }
+          },
+          "12mm Taster with Silicone Skin": {
+            "price": 8,
+            "vendor": "GRAV",
+            "colors": [
+              "pink"
+            ],
+            "incl": {
+              "self": 1
+            }
+          },
+          "Gandalf": {
+            "price": 30,
+            "vendor": "GRAV",
+            "colors": [
+              "pink"
+            ],
+            "incl": {
+              "self": 1
+            }
+          },
+          "Silicone Rocker Steamroller": {
+            "price": 30,
+            "vendor": "GRAV",
+            "colors": [
+              "black"
+            ],
+            "incl": {
+              "self": 1
+            }
+          }
+        },
+        "lighters": {
+          "Local Roots Black Lighter": {
+            "price": 3,
+            "vendor": "Bic",
+            "colors": [
+              "black"
+            ],
+            "incl": {
+              "self": 1
+            }
+          }
+        },
+        "papers/rolling": {
+          "Hempire King Size Papers": {
+            "price": 1.5,
+            "vendor": "Hempire",
+            "colors": [
+              "n/a"
+            ],
+            "incl": {
+              "paper": 33
+            }
+          },
+          "Elements 1-1/4 Papers": {
+            "price": 2.5,
+            "vendor": "Elements Papers",
+            "colors": [
+              "n/a"
+            ],
+            "incl": {
+              "paper": 50
+            }
+          },
+          "RAW Classic King Size Slim Papers": {
+            "price": 3,
+            "vendor": "RAW",
+            "colors": [
+              "n/a"
+            ],
+            "incl": {
+              "paper": 32
+            }
+          },
+          "Elements King Size Papers": {
+            "price": 3,
+            "vendor": "Elements Papers",
+            "colors": [
+              "n/a"
+            ],
+            "incl": {
+              "paper": 33
+            }
+          },
+          "Local Roots Hemp King Size Rolling Papers": {
+            "price": 3,
+            "vendor": "Local Roots",
+            "colors": [
+              "n/a"
+            ],
+            "incl": {
+              "paper": 50
+            }
+          }
+        },
+        "storage/containers": {
+          "4g Integra Boost Humidity Pack": {
+            "price": 1.5,
+            "vendor": "Integra Boost",
+            "colors": [
+              "n/a"
+            ],
+            "incl": {
+              "self": 1
+            }
+          },
+          "8g Integra Boost Humidity Pack": {
+            "price": 1.5,
+            "vendor": "Integra Boost",
+            "colors": [
+              "n/a"
+            ],
+            "incl": {
+              "self": 1
+            }
+          },
+          "Ceramic Joint Tube": {
+            "price": 3,
+            "vendor": "Local Roots",
+            "colors": [
+              "black"
+            ],
+            "incl": {
+              "self": 1
+            }
+          },
+          "GRAV Dugout": {
+            "price": 50,
+            "vendor": "GRAV",
+            "colors": [
+              "black",
+              "gun metal",
+              "sea green"
+            ],
+            "incl": {
+              "self": 1
+            }
+          }
         }
+      }
+    },
+    "template": {
+      "accessory": {
+        "price": "",
+        "vendor": "",
+        "colors": [
+          ""
+        ],
+        "incl": {
+          "self": 1
+        }
+      }
     }
-}
+  }
